@@ -54,4 +54,3 @@ module.exports = {
 
 Then Browse http://localhost:3030 . You will see the Homepage.
 
-<img src="https://i.postimg.cc/nrdbmXmt/end.png" width="500">
